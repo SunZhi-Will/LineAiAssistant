@@ -1,0 +1,5 @@
+flask==3.0.2
+line-bot-sdk==3.5.1
+pyngrok==7.1.5
+google-generativeai==0.3.2
+python-dotenv==1.0.1
